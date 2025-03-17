@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stingknight&label=Profile%20views&color=0e75b6&style=flat" alt="stingknight" /> </p>
 
-- 🔭 I’m currently working on ** *** t**
+- 🔭 I’m currently working on ** *** **
 
 - 🌱 I’m currently learning **Kafka,Websockets**
 
